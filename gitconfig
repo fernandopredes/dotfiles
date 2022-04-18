@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fernando_predes@hotmail.com
+	name = Fernando Predes
